@@ -14,7 +14,7 @@ export default function Home() {
                 Aquests apunts formaven part de la pàgina oficial de PRO1 durant
                 els cursos 2024-2025 i 2025-2026. No estan complets, però el
                 repositori està a{" "}
-                <Link href="https://github/pauek/apunts-pro1">GitHub</Link> i
+                <Link href="https://github.com/pauek/apunts-pro1">GitHub</Link> i
                 s&apos;accepten pull requests.
             </p>
 

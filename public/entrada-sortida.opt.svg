@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140mm" height="40mm" version="1.1" viewBox="0 0 140 40" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="a" overflow="visible" markerHeight="3.9641473" markerUnits="userSpaceOnUse" markerWidth="2.4000001" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 4.0606602 6.7071068">
+   <path transform="rotate(180 .125 0)" d="m3-3-3 3 3 3" fill="none" stroke="context-stroke"/>
+  </marker>
+ </defs>
+ <rect width="140" height="40" fill="#fff"/>
+ <rect x="50.432" y="10.42" width="42.092" height="19.161" fill="none" stroke="#000" stroke-linecap="square" stroke-width=".39688"/>
+ <path d="m92.92 20h9.7645" fill="#3a3a3a" marker-end="url(#a)" stroke="#000" stroke-linecap="square" stroke-width=".39688"/>
+ <g fill="#000000" font-family="'JetBrains Mono'" stroke-linecap="square" stroke-width=".39688">
+  <text x="56.028564" y="21.85957" font-size="6.35px" font-weight="500" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal" xml:space="preserve"><tspan x="56.028564" y="21.85957" fill="#000000" font-family="'JetBrains Mono'" font-size="6.35px" font-weight="500" stroke-width=".39688" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">programa</tspan></text>
+  <text x="14.065376" y="21.803125" font-size="5.6444px" font-style="italic" font-weight="300" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal" xml:space="preserve"><tspan x="14.065376" y="21.803125" fill="#000000" font-family="'JetBrains Mono'" font-size="5.6444px" font-style="italic" font-weight="300" stroke-width=".39688" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">entrada</tspan></text>
+  <text x="105.44812" y="21.861185" font-size="5.6444px" font-style="italic" font-weight="300" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal" xml:space="preserve"><tspan x="105.44812" y="21.861185" fill="#000000" font-family="'JetBrains Mono'" font-size="5.6444px" font-style="italic" font-weight="300" stroke-width=".39688" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">sortida</tspan></text>
+ </g>
+ <path d="m39.903 20h9.7645" fill="#3a3a3a" marker-end="url(#a)" stroke="#000" stroke-linecap="square" stroke-width=".39688"/>
+</svg>

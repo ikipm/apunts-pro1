@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120mm" height="50mm" version="1.1" viewBox="0 0 120 50" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="b" overflow="visible" markerHeight="3.9641473" markerUnits="userSpaceOnUse" markerWidth="2.4000001" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 4.0606602 6.7071068">
+   <path transform="rotate(180 .125 0)" d="m3-3-3 3 3 3" fill="none" stroke="context-stroke"/>
+  </marker>
+  <marker id="a" overflow="visible" markerHeight="3.9932432" markerUnits="userSpaceOnUse" markerWidth="2.4000001" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 4.2071068 7">
+   <path transform="rotate(180 .125 0)" d="m3-3-3 3 3 3" fill="none" stroke="context-stroke" stroke-linecap="round"/>
+  </marker>
+ </defs>
+ <rect width="120" height="50" fill="#fff"/>
+ <g transform="translate(-15.168 -10)" stroke-linecap="square" stroke-width=".39688">
+  <rect x="46.178" y="21.036" width="49.646" height="27.928" fill="none" stroke="#000"/>
+  <g stroke="#000">
+   <path d="m30.022 25.475h16.156" marker-end="url(#a)"/>
+   <path d="m30.022 35h16.156" marker-end="url(#a)"/>
+   <path d="m30.022 44.525h16.156" marker-end="url(#a)"/>
+  </g>
+  <path d="m95.824 35h9.7645" fill="#3a3a3a" marker-end="url(#b)" stroke="#000"/>
+  <g fill="#000000" font-family="'JetBrains Mono'">
+   <text x="61.491924" y="37.285999" font-size="6.35px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal" xml:space="preserve"><tspan x="61.491924" y="37.285999" fill="#000000" font-family="'JetBrains Mono'" font-size="6.35px" stroke-width=".39688" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">suma3</tspan></text>
+   <g font-size="5.6444px">
+    <text x="23.540506" y="27.019636" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal" xml:space="preserve"><tspan x="23.540506" y="27.019636" fill="#000000" font-family="'JetBrains Mono'" font-size="5.6444px" stroke-width=".39688" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">a</tspan></text>
+    <text x="23.540506" y="46.069641" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal" xml:space="preserve"><tspan x="23.540506" y="46.069641" fill="#000000" font-family="'JetBrains Mono'" font-size="5.6444px" stroke-width=".39688" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">c</tspan></text>
+    <text x="23.517929" y="36.51038" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal" xml:space="preserve"><tspan x="23.517929" y="36.51038" fill="#000000" font-family="'JetBrains Mono'" font-size="5.6444px" stroke-width=".39688" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">b</tspan></text>
+    <text x="109.91875" y="36.552223" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal" xml:space="preserve"><tspan x="109.91875" y="36.552223" fill="#000000" font-family="'JetBrains Mono'" font-size="5.6444px" stroke-width=".39688" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">a+b+c</tspan></text>
+   </g>
+  </g>
+ </g>
+</svg>
